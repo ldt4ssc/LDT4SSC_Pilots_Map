@@ -1,0 +1,1 @@
+var json_CITYRESConnection_10 = {"type":"FeatureCollection","name":"CITYRESConnection_10","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","begin":"-40","end":"-37"},"geometry":{"type":"LineString","coordinates":[[-0.251551411055839,39.96773080265649],[14.862632461825781,45.640113895575304]]}}]}
