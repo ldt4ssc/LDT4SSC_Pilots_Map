@@ -1,0 +1,1 @@
+var json_GeoTwinELBGConnection_8 = {"type":"FeatureCollection","name":"GeoTwinELBGConnection_8","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","begin":"0","end":"4"},"geometry":{"type":"LineString","coordinates":[[24.493484410135558,41.256823116695621],[23.278920427029735,41.563861295580359]]}}]}

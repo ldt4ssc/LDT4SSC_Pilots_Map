@@ -1,0 +1,1 @@
+var json_MunicipalConnection_4 = {"type":"FeatureCollection","name":"MunicipalConnection_4","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"begin":null,"end":null},"geometry":{"type":"LineString","coordinates":[[-1.131481054978927,37.988178977456528],[33.344541222859192,35.146403709139882]]}}]}
