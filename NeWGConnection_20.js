@@ -1,1 +1,0 @@
-var json_NeWGConnection_20 = {"type":"FeatureCollection","name":"NeWGConnection_20","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","begin":"0","end":"1"},"geometry":{"type":"LineString","coordinates":[[-3.687871772161186,40.423576664919509],[9.702267378319979,45.159209506687269]]}}]}
