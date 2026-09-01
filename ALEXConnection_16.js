@@ -1,1 +1,0 @@
-var json_ALEXConnection_16 = {"type":"FeatureCollection","name":"ALEXConnection_16","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","begin":"-20","end":"-19"},"geometry":{"type":"LineString","coordinates":[[14.43747837565048,50.072967464225556],[24.936999417788762,60.168930595387458]]}}]}
