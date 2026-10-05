@@ -349,7 +349,7 @@ var lyr_NeWGPartners_21 = new ol.layer.Vector({
     <img src="styles/legend/NeWGPartners_21_3.png" /> SME<br />' });
 var group_NeWGProject = new ol.layer.Group({
                                 layers: [lyr_NeWGConnection_20,lyr_NeWGPartners_21,],
-                                fold: 'open',
+                                fold: 'close',
                                 title: 'NeWG+ Project'});
 var group_UrbanIntelligenceProject = new ol.layer.Group({
                                 layers: [lyr_UrbanIntelligenceConnection_18,lyr_UrbanIntelligencePartners_19,],
@@ -373,7 +373,7 @@ var group_CITYRESProject = new ol.layer.Group({
                                 title: 'CITYRES Project'});
 var group_GeoTwinELBGProject = new ol.layer.Group({
                                 layers: [lyr_GeoTwinELBGConnection_8,lyr_GeoTwinELBGPartners_9,],
-                                fold: 'open',
+                                fold: 'close',
                                 title: 'GeoTwin-ELBG Project'});
 var group_AquaGuardTwinProject = new ol.layer.Group({
                                 layers: [lyr_AquaGuardTwinConnection_6,lyr_AquaGuardTwinPartners_7,],
