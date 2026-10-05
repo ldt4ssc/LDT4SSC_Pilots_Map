@@ -1,0 +1,1 @@
+var json_PERFORMConnection_12 = {"type":"FeatureCollection","name":"PERFORMConnection_12","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","begin":"-29","end":"-28"},"geometry":{"type":"LineString","coordinates":[[-8.989960164021859,38.954911035692007],[22.068767503512696,40.629202904860747]]}}]}
